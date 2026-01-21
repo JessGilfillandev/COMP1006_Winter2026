@@ -2,7 +2,7 @@
 declare(strict_types=1); 
 
 $host = "localhost"; //hostname
-$db = "week_two"; //database name
+$db = "week_to"; //database name
 $user = "root"; //username
 $password = ""; //password
 
