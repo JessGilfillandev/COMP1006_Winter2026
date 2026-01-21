@@ -1,5 +1,5 @@
 <?php 
-delare(strict_types=1); 
+declare(strict_types=1); 
 
 $host = "localhost"; //hostname
 $db = "week_two"; //database name
